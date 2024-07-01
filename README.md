@@ -12,15 +12,13 @@
 
 ## 📋 Projeto
 
-Missão Prática com o objetivo de implementar um sistema cadastral em Java com persistência em arquivos binários, utilizando conceitos fundamentais da programação orientada a objetos, herança, polimorfismo, e a interface Serializable apresentada no **`Nível 1: Iniciando o Caminho pelo Java`** do **`Mundo 3`** do curso de **`Desenvolvimento Full Stack`** da **`Estácio`**, do semestre de **`2023.4`**, sob a tutoria de Robson Lorbieski.
+Missão Prática com o objetivo de implementar um sistema cadastral em Java com persistência em arquivos binários, utilizando conceitos fundamentais da programação orientada a objetos, herança, polimorfismo, e a interface Serializable apresentada no **`Nível 1: Iniciando o Caminho pelo Java`** do **`Mundo 3`** do curso de **`Desenvolvimento Full Stack`** da **`Estácio`**, do semestre de **`2024.1`**, sob a tutoria de Maria Manso.
 
 Projeto elaborado de acordo com as diretrizes especificadas para a Missão Prática, que podem ser conferidas [**`clicando aqui`**](https://sway.cloud.microsoft/s/rCYHGUtt44OGcxgB/embed).
 
 ## 📥 Como baixar e executar
 
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
-
-Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/iniciando-o-caminho-pelo-java`.
 
 Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos, dos quais eu recomendo o uso do [NetBeans](https://netbeans.apache.org/front/main/download/index.html).
 
@@ -60,8 +58,6 @@ Para acessar o relatório da Missão Prática, clique no botão abaixo:
 
 <div align="center">
 
-[![Link de acesso ao relatório](https://img.shields.io/badge/-Acesse%20o%20relatório-000000?style=for-the-badge)](./Relatório%20da%20Missão%20Prática.pdf)
-
 </div>
 
 ## 🛠 Tecnologias utilizadas
@@ -86,7 +82,5 @@ Para a construção e execução do projeto foram utilizadas as seguintes tecnol
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
 
 <div align=center>
-
-[![Licença](https://img.shields.io/github/license/guedesert/iniciando-o-caminho-pelo-java?style=for-the-badge&color=blue&label=licença)](./LICENSE)
 
 </div>
