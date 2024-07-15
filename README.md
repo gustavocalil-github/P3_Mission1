@@ -1,4 +1,4 @@
-![Capa do projeto com logo da Estácio](././github/capa.png)
+![Capa do projeto com logo da Estácio](./.github/capa.png)
 
 <div align="center">
 
