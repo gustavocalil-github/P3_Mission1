@@ -1,7 +1,5 @@
 ![Capa do projeto com logo da Estácio](./logo_m1.svg)
-
 <div align="center">
-
 ---
 
 [Projeto](#-projeto) • [Como baixar e executar](#-como-baixar-e-executar) • [Procedimentos](#-procedimentos) • [Tecnologias utilizadas](#-tecnologias-utilizadas) • [Autor](#-autor) • [Licença](#-licença)
